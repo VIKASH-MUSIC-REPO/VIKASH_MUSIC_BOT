@@ -32,7 +32,7 @@
 
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹ꜱʏꜱᴛᴜᴍ ꭙ ᴍᴜꜱɪᴄ˼𓆩𔘓⃭𓆪](https://t.me/SUKOON_MUSIC_VC_BOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹𝚂𝚄𝙺𝙾𝙾𝙽 ꭙ ᴍᴜꜱɪᴄ˼𓆩𔘓⃭𓆪](https://t.me/SUKOON_MUSIC_VC_BOT)**
 
 
 
