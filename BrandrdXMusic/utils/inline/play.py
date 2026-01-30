@@ -68,7 +68,7 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/SMART_OPII"),
-            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/GOD_KI_DUNIYA"),
+            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/GIRLS_BOYS_DP_STYLISH"),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
@@ -86,7 +86,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/SMART_OPII"),
-            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/GOD_KI_DUNIYA"),
+            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/GIRLS_BOYS_DP_STYLISH"),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
